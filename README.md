@@ -1,10 +1,10 @@
-♟️ Chess Blitz Analytics
+ Chess Blitz Analytics
 
 Blitz chess is raw, fast, and unforgiving — it shows how a player thinks under the ticking clock. For me, this project is more than just crunching numbers. It’s about diving into the games of Divya Deshmukh, a player whose creativity, confidence, and resilience make her stand out on the board.
 
 I’ve always found something magnetic about her blitz games on Chess.com. Even in short time controls, she manages to combine sharp calculation with calm precision — and that’s what inspired me to build this project.
 
-📂 Repository Contents
+ Repository Contents
 
 divya_games_enriched.csv
 Enriched dataset of Divya’s blitz games, with details like:
@@ -26,7 +26,7 @@ Python script that transforms PGN files into structured CSVs.
 Chess_Blitz_Analytics_MERGED_NODATE.pdf
 A report with graphs and analytics that highlight her strengths and style in blitz.
 
-🚀 What This Project Does
+ What This Project Does
 
 Translates raw PGNs into clean, analyzable data.
 
@@ -40,7 +40,7 @@ Win/loss streaks and style in short games
 
 Ability to handle pressure in blitz
 
-📊 How to Run
+How to Run
 
 Clone this repo:
 
@@ -63,7 +63,7 @@ Interactive dashboards that let anyone explore her growth.
 
 Deeper game pattern analysis (comebacks, tactics, clutch moves).
 
-🙌 Acknowledgments
+ Acknowledgments
 
 This project is fueled by my admiration for Divya Deshmukh. She’s not just one of India’s brightest chess talents — her games carry a spark that makes you want to watch closer, analyze deeper, and learn from her style.
 
